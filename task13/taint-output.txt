@@ -1,0 +1,34 @@
+Taints:             node-role.kubernetes.io/control-plane:NoSchedule
+Unschedulable:      false
+Lease:
+  HolderIdentity:  master-node1
+  AcquireTime:     <unset>
+  RenewTime:       Fri, 11 Apr 2025 17:46:16 +0000
+--
+Taints:             <none>
+Unschedulable:      false
+Lease:
+  HolderIdentity:  node1
+  AcquireTime:     <unset>
+  RenewTime:       Fri, 11 Apr 2025 17:46:14 +0000
+--
+Taints:             <none>
+Unschedulable:      false
+Lease:
+  HolderIdentity:  node2
+  AcquireTime:     <unset>
+  RenewTime:       Fri, 11 Apr 2025 17:46:13 +0000
+--
+Taints:             <none>
+Unschedulable:      false
+Lease:
+  HolderIdentity:  node3
+  AcquireTime:     <unset>
+  RenewTime:       Fri, 11 Apr 2025 17:46:15 +0000
+--
+Taints:             devops=course:NoSchedule
+Unschedulable:      false
+Lease:
+  HolderIdentity:  node4
+  AcquireTime:     <unset>
+  RenewTime:       Fri, 11 Apr 2025 17:46:13 +0000

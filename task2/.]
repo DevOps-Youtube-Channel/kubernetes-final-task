@@ -1,0 +1,17 @@
+NAMESPACE         NAME     READY   STATUS    RESTARTS   AGE    IP              NODE    NOMINATED NODE   READINESS GATES
+dilmurod-final    nginx1   1/1     Running   0          83m    10.233.65.92    node1   <none>           <none>
+dilmurod-final    nginx2   1/1     Running   0          83m    10.233.66.185   node2   <none>           <none>
+farrukh-final     nginx1   1/1     Running   0          35s    10.233.65.235   node1   <none>           <none>
+farrukh-final     nginx2   1/1     Running   0          35s    10.233.66.132   node2   <none>           <none>
+fayoz-final       nginx1   1/1     Running   0          41m    10.233.67.243   node3   <none>           <none>
+fayoz-final       nginx2   1/1     Running   0          41m    10.233.65.226   node1   <none>           <none>
+fazliddin-final   nginx1   1/1     Running   0          87m    10.233.66.251   node2   <none>           <none>
+fazliddin-final   nginx2   1/1     Running   0          87m    10.233.67.251   node3   <none>           <none>
+ibrohim-final     nginx1   1/1     Running   0          117m   10.233.67.114   node3   <none>           <none>
+ibrohim-final     nginx2   1/1     Running   0          117m   10.233.67.115   node3   <none>           <none>
+j-jumanazarov     nginx1   1/1     Running   0          101m   10.233.66.248   node2   <none>           <none>
+j-jumanazarov     nginx2   1/1     Running   0          100m   10.233.67.65    node3   <none>           <none>
+rakhimjon-final   nginx1   1/1     Running   0          105m   10.233.66.74    node2   <none>           <none>
+rakhimjon-final   nginx2   1/1     Running   0          105m   10.233.65.30    node1   <none>           <none>
+zoyirjon-final    nginx1   1/1     Running   0          126m   10.233.66.252   node2   <none>           <none>
+zoyirjon-final    nginx2   1/1     Running   0          126m   10.233.66.42    node2   <none>           <none>

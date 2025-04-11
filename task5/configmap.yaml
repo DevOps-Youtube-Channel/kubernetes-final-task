@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: configmap-farrukh
+  namespace: farrukh-final
+data:
+  AUTHOR: "sadatov-farrukh"
+  EXAM_TYPE: "Final_Exam"

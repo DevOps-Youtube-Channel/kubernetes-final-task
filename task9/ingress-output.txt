@@ -1,0 +1,1 @@
+{"domain":"ingress-f-sadatov.sts404.uz","endpoint":"/check-ingress","full_path:":"ingress-f-sadatov.sts404.uz/check-ingress"}

@@ -1,0 +1,18 @@
+busybox-echo                          1/1     Running     1 (9m16s ago)   69m
+final-env-exam-54bb99b54d-lk7zb       1/1     Running     0               31m
+flask-application-6bd75c8c88-4h9ft    1/1     Running     0               65m
+flask-application-6bd75c8c88-mxpp6    1/1     Running     0               65m
+frontend-something-6fff4dc777-9v486   1/1     Running     0               6m51s
+nginx-configmap                       1/1     Running     0               37m
+nginx1                                1/1     Running     0               73m
+nginx2                                1/1     Running     0               73m
+node-printer-29073216-4r6rn           0/1     Completed   0               63s
+node-printer-29073216-b2z9d           0/1     Completed   0               56s
+node-printer-29073216-c6jnt           0/1     Completed   0               58s
+node-printer-29073216-fqcxg           0/1     Completed   0               63s
+node-printer-29073216-jvtpm           0/1     Completed   0               63s
+node-printer-29073216-khzhs           0/1     Completed   0               63s
+node-printer-29073216-lf6q2           0/1     Completed   0               53s
+node-printer-29073216-q6q9s           0/1     Completed   0               63s
+node-printer-29073216-rwr98           0/1     Completed   0               58s
+node-printer-29073216-w5q2l           0/1     Completed   0               52s

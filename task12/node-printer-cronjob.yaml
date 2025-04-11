@@ -1,0 +1,20 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: node-printer
+  namespace: farrukh-final
+spec:
+  schedule: "*/2 * * * *"
+  concurrencyPolicy: Allow
+  successfulJobsHistoryLimit: 3
+  jobTemplate:
+    spec:
+      parallelism: 5
+      completions: 10
+      template:
+        spec:
+          containers:
+            - name: printer
+              image: nginx
+              command: ["sh", "-c", "echo I am running on $(hostname)"]
+          restartPolicy: OnFailure

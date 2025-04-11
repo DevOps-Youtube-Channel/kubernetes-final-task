@@ -1,0 +1,17 @@
+NAME              STATUS   AGE
+cert-manager      Active   7d2h
+default           Active   53d
+dilmurod-final    Active   85m
+farrukh-final     Active   17s
+fayoz-final       Active   89m
+fazliddin-final   Active   116m
+ibrohim-final     Active   112m
+ingress-nginx     Active   30h
+j-jumanazarov     Active   114m
+kube-node-lease   Active   53d
+kube-public       Active   53d
+kube-system       Active   53d
+longhorn-system   Active   7d1h
+rakhimjon-final   Active   118m
+special           Active   49d
+zoyirjon-final    Active   122m

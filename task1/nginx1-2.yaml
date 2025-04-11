@@ -1,0 +1,26 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx1
+  namespace: farrukh-final
+  labels:
+    last: final
+    author: farrukh
+spec:
+  containers:
+    - name: nginx
+      image: nginx
+
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx2
+  namespace: farrukh-final
+  labels:
+    last: final
+    author: farrukh
+spec:
+  containers:
+    - name: nginx
+      image: nginx

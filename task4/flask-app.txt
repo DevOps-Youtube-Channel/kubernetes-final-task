@@ -1,0 +1,6 @@
+NAME                                 READY   STATUS    RESTARTS   AGE
+busybox-echo                         1/1     Running   0          26m
+flask-application-6bd75c8c88-4h9ft   1/1     Running   0          23m
+flask-application-6bd75c8c88-mxpp6   1/1     Running   0          23m
+nginx1                               1/1     Running   0          31m
+nginx2                               1/1     Running   0          31m
